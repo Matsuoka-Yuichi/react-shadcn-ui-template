@@ -1,14 +1,12 @@
 {
   "$schema": "https://ui.shadcn.com/schema.json",
   "style": "default",
-  "rsc": false,
-  "tsx": true,
+  "rsc": true,
   "tailwind": {
-    "config": "tailwind.config.js",
-    "css": "src/index.css",
+    "config": "/Users/air13/Desktop/successleanring/addness-ai-frontend/tailwind.config.js",
+    "css": "/Users/air13/Desktop/successleanring/addness-ai-frontend/src/index.css",
     "baseColor": "slate",
-    "cssVariables": true,
-    "prefix": ""
+    "cssVariables": true
   },
   "aliases": {
     "components": "@/components",
